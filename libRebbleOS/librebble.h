@@ -35,6 +35,7 @@
 #include "bitmap_layer.h"
 #include "text_layer.h"
 #include "scroll_layer.h"
+#include "menu_layer.h"
 #include "window.h"
 #include "display.h"
 #include "animation.h"

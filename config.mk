@@ -87,6 +87,7 @@ SRCS_all += libRebbleOS/math_sin.c
 SRCS_all += libRebbleOS/ui/layer/layer.c
 SRCS_all += libRebbleOS/ui/layer/bitmap_layer.c
 SRCS_all += libRebbleOS/ui/layer/scroll_layer.c
+SRCS_all += libRebbleOS/ui/layer/menu_layer.c
 SRCS_all += libRebbleOS/ui/layer/text_layer.c
 SRCS_all += libRebbleOS/ui/window.c
 SRCS_all += libRebbleOS/graphics/gbitmap.c
